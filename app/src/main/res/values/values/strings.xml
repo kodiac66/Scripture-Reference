@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ANDROID SCRIPTURE REFERENCE</string>
+    <string name="action_settings">Settings</string>
+    <string name="display_reference">Display Reference</string>
+    <string name="enter_book">Enter book:</string>
+    <string name="enter_chapter">Enter chapter:</string>
+    <string name="enter_verse">Enter verse:</string>
+</resources>
